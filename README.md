@@ -23,3 +23,7 @@ O OltManager é um binário desenvolvido em Go que realiza busca SNMP em equipam
 - Você pode listar as OLTs/ONTs
 - Servidor SNMP Trap
 
+### TOKEN e WhatsApp
+
+- O Oltmanager precisa de um TOKEN para funcionar, e você pode conseguir entrando em contato.
+- O WhatsApp é uma integração que podemos fazer, você adiciona em um grupo nosso contato, e ele automaticamente envia os alertas para esse grupo.
